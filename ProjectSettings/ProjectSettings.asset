@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 7c2c6f3a732ac764c88c0a139449138d
+  productGUID: 3f3d119c3568e5143821424c33553315
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -617,10 +617,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: a3a63012-657d-4b4e-ad00-ca7ef6ca89ff
+  cloudProjectId: a1cb7a7b-fd70-4455-bb01-9c61af4a8a2a
   framebufferDepthMemorylessMode: 0
-  projectName: New Unity Project (1)
-  organizationId: unity_212062
+  projectName: New Unity Project
+  organizationId: angelflying87
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
